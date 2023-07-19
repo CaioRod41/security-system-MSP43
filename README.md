@@ -1,4 +1,4 @@
-# Security System - MSP430
+# Security System - MSP430F5529
 
 A security system that controls an alarm that sends messages via bluetooth and LCD.
 
